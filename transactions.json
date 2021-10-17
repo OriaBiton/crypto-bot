@@ -1,0 +1,22 @@
+{
+  "binance": [
+    {
+      "symbol": "RARE"
+    },
+    {
+      "symbol": "RAD"
+    },
+    {
+      "symbol": "AGLD"
+    },
+    {
+      "symbol": "FIDA"
+    },
+    {
+      "symbol": "YGG"
+    }
+  ],
+  "cmc": [
+    {"name": "gzez", "id": 2590}
+  ]
+}
